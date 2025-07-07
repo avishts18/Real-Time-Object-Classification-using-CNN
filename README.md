@@ -6,7 +6,7 @@
 
 ```bash
 git clone https://github.com/avishts18/Real-Time-object-Classificatiion-using-CNN.git
-cd object-classifier
+cd Real-Time-object-Classificatiion-using-CNN
 ```
 # The full project structure is not available in the above GitHub link.
 
